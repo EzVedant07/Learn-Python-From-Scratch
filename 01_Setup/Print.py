@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("Welcome to Python programming!")
+print("Let's get started with some basic syntax.")
+print("This is a simple Python script.")
+print("Enjoy coding!")

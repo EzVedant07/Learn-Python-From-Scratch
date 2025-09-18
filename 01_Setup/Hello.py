@@ -1,0 +1,5 @@
+print ("I am taking this challenge to learn Python for next 100 days.")
+print("Welcome to Python programming!")
+print("This is my first day of learning Python.")
+print("I'm excited to start this journey!")
+print("Date - 18-09-2025 - Time- 10:00 AM")
